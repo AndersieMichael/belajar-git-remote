@@ -2,3 +2,4 @@ wiwiw
 enter
 reset 1
 reset 2
+fiture 2
