@@ -6,3 +6,4 @@ fiturb
 fiturc
 fitur d
 master
+fitur merge sqyash

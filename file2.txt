@@ -5,3 +5,4 @@ reset 2
 fiture 2
 feature a
 fitur rebase
+merge squash
